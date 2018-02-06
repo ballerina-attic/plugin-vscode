@@ -1,5 +1,9 @@
 # Ballerina plugin for Visual Studio Code
 
+This repository is no longer used for development. Current developments are done in following repository.
+
+https://github.com/ballerina-lang/ballerina
+
 ## What is Ballerina
 
 ballerina is a general purpose, concurrent and strongly typed
