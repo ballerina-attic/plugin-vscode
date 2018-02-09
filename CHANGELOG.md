@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.961.0 - 2018-02-09
+### Added
+- Updated language server to v0.961.0
+
+### Fixed
+- Fixed issue [#32](https://github.com/ballerina-lang/plugin-vscode/issues/32): In windows completions, hover, diagnostics are given only considering the content saved to disk
+
 ## 0.96.0 - 2018-02-01
 
 ### Added
