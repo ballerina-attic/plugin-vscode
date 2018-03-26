@@ -6,10 +6,10 @@ https://github.com/ballerina-lang/ballerina
 
 ## What is Ballerina
 
-ballerina is a general purpose, concurrent and strongly typed
+Ballerina is a general purpose, concurrent and strongly typed
 programming language with both textual and graphical syntaxes.
 
-for more info: http://ballerinalang.org/
+For more info, see: http://ballerinalang.org/
 
 ## Features
 
